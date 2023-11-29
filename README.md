@@ -1,2 +1,5 @@
 # Video-Scene-Complexity-Estimation
-[STARLAB] This repositery is a system to estimate scene complexity in video
+[STARLAB] This repository is a system to estimate scene complexity in video
+
+## Compute Scene Complexity
+*** bash run.sh ***
