@@ -6,7 +6,7 @@
 bash run.sh
 ```
 
-## Compute Scene Complexity
+## Compute Scene Complexity Step-by-Step
 
 ## Scene Finding
 ```
