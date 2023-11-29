@@ -5,3 +5,17 @@
 ```
 bash run.sh
 ```
+
+## Compute Scene Complexity
+
+## Scene Finding
+```
+python vid_query_set.py
+```
+
+## Scene Redundancy Removal
+
+```
+python make_data.py
+python normalize.py
+```
