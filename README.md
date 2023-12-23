@@ -17,6 +17,10 @@ python vid_query_set.py
 
 ```
 python make_data.py
+```
+
+## Scene Redundancy Normalize
+```
 python normalize.py
 ```
 
